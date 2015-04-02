@@ -1465,7 +1465,7 @@ function pano2vrSkin(player,base) {
 		this.__46.setAttribute('style',hs);
 		this.__46__img=document.createElement('img');
 		this.__46__img.className='ggskin ggskin_image';
-		this.__46__img.setAttribute('src',basePath + 'images/_46.png');
+		this.__46__img.setAttribute('src',basePath + 'images/46.png');
 		this.__46__img.setAttribute('style','position: absolute;top: 0px;left: 0px;-webkit-user-drag:none;');
 		this.__46__img.className='ggskin ggskin_image';
 		this.__46__img['ondragstart']=function() { return false; };
