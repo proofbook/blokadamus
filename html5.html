@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+		<title>1</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, minimal-ui" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+		
+		<script type="text/javascript">
+	
+			function hideUrlBar() {
+			}
+	
+		</script>
+		<style type="text/css" title="Default">
+			body, div, h1, h2, h3, span, p {
+				font-family: Verdana,Arial,Helvetica,sans-serif;
+				color: #000000; 
+			}
+			body {
+			  font-size: 10pt;
+			  background : #ffffff; 
+			}
+			table,tr,td {
+				font-size: 10pt;
+				border-color : #777777;
+				background : #dddddd; 
+				color: #000000; 
+				border-style : solid;
+				border-width : 2px;
+				padding: 5px;
+				border-collapse:collapse;
+			}
+			h1 {
+				font-size: 18pt;
+			}
+			h2 {
+				font-size: 14pt;
+			}
+			.warning { 
+				font-weight: bold;
+			} 
+			/* fix for scroll bars on webkit & Mac OS X Lion */ 
+			::-webkit-scrollbar {
+				background-color: rgba(0,0,0,0.5);
+				width: 0.75em;
+			}
+			::-webkit-scrollbar-thumb {
+    			background-color:  rgba(255,255,255,0.5);
+			}
+		</style>	
+	</head>
+	<body>
+		<h1>1</h1>
+		<br>
+		<script type="text/javascript" src="pano2vr_player.js">
+		</script>
+		<script type="text/javascript" src="skin.js">
+		</script>
+		<div id="container" style="width:1000px;height:625px;">
+		This content requires HTML5/CSS3, WebGL, or Adobe Flash Player Version 9 or higher.
+		</div>
+		<script type="text/javascript">
+	
+	
+			// create the panorama player with the container
+			pano=new pano2vrPlayer("container");
+			// add the skin object
+			skin=new pano2vrSkin(pano);
+			// load the configuration
+			pano.readConfigUrl("html5.xml");
+			// hide the URL bar on the iPhone
+			setTimeout(function() { hideUrlBar(); }, 10);
+		</script>
+		<noscript>
+			<p><b>Please enable Javascript!</b></p>
+		</noscript>
+		
+		<p>
+		<table>
+			<tr>
+				<td><b>Description</b></td>
+				<td>&#1052;&#1091;&#1079;&#1077;&#1081; &#1086;&#1073;&#1086;&#1088;&#1086;&#1085;&#1099; &#1080; &#1073;&#1083;&#1086;&#1082;&#1072;&#1076;&#1099; &#1051;&#1077;&#1085;&#1080;&#1085;&#1075;&#1088;&#1072;&#1076;&#1072;</td>
+			</tr>
+			<tr>
+				<td><b>Author</b></td>
+				<td>&#1040;&#1085;&#1090;&#1080;&#1087;&#1086;&#1074; &#1042;.&#1057;. &#1087;&#1086;&#1076; &#1088;&#1091;&#1082;&#1086;&#1074;&#1086;&#1076;&#1089;&#1090;&#1074;&#1086;&#1084; &#1040;&#1073;&#1088;&#1072;&#1084;&#1086;&#1074;&#1072; &#1048;.&#1042;.</td>
+			</tr>
+			<tr>
+				<td><b>Date/Time</b></td>
+				<td>2014</td>
+			</tr>
+			<tr>
+				<td><b>Copyright</b></td>
+				<td>blokadamus.ru</td>
+			</tr>
+		</table>
+	</body>
+</html>

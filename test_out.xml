@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="333" fov="70" tilt="-0.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Музей обороны и блокады Ленинграда" datetime="2014" description="" copyright="blokadamus.ru" tags="" author="Антипов В.С. под руководством Абрамова И.В." source="school-134.ru" comment="Учебный проект. ГБОУ СОШ №134 им.Сердея Дудко" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot title="Пройти" target="43.5/0.5/65" url="{node2}" id="Poly01">
+        <vertex pan="-19.7981" tilt="3.48518"/>
+        <vertex pan="-48.2408" tilt="1.01682"/>
+        <vertex pan="-42.5451" tilt="-24.8391"/>
+        <vertex pan="-11.1595" tilt="-15.6616"/>
+      </polyhotspot>
+      <polyhotspot title="Выход" target="" url="" id="Poly02">
+        <vertex pan="-171.64" tilt="12.2253"/>
+        <vertex pan="179.446" tilt="9.649509999999999"/>
+        <vertex pan="179.886" tilt="-14.1533"/>
+        <vertex pan="-172.5" tilt="-16.8208"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/1_o_0.jpg" tile5url="images/1_o_5.jpg" tilesize="892" tile4url="images/1_o_4.jpg" tile3url="images/1_o_3.jpg" tilescale="1.011210762331839" tile2url="images/1_o_2.jpg" tile1url="images/1_o_1.jpg"/>
+    <altinput tile0url="images/1_o_800_0.jpg" screensize="1000" tile5url="images/1_o_800_5.jpg" tilesize="800" tile4url="images/1_o_800_4.jpg" tile3url="images/1_o_800_3.jpg" tilescale="1.011210762331839" tile2url="images/1_o_800_2.jpg" tile1url="images/1_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="44.5" fov="70" tilt="2.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Музей обороны и блокады Ленинграда" datetime="2014" description="" copyright="blokadamus.ru" tags="" author="Антипов В.С. под руководством Абрамова И.В." source="school-134.ru" comment="Учебный проект. ГБОУ СОШ №134 им.Сердея Дудко" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot title="Пройти" target="182/0/65" url="{node3}" id="Poly01">
+        <vertex pan="51.0565" tilt="-1.46674"/>
+        <vertex pan="35.7024" tilt="-2.85914"/>
+        <vertex pan="34.6241" tilt="-8.06082"/>
+        <vertex pan="33.4431" tilt="-9.696199999999999"/>
+        <vertex pan="29.6695" tilt="-26.0888"/>
+        <vertex pan="59.1928" tilt="-23.871"/>
+      </polyhotspot>
+      <polyhotspot title="Пройти" target="148.5/-6.5/75" url="{node1}" id="Poly02">
+        <vertex pan="-153.35" tilt="-1.76912"/>
+        <vertex pan="-131.392" tilt="-0.993579"/>
+        <vertex pan="-128.87" tilt="-22.961"/>
+        <vertex pan="-161.911" tilt="-28.1834"/>
+        <vertex pan="-159.917" tilt="-22.6087"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/2_o_0.jpg" tile5url="images/2_o_5.jpg" tilesize="892" tile4url="images/2_o_4.jpg" tile3url="images/2_o_3.jpg" tilescale="1.011210762331839" tile2url="images/2_o_2.jpg" tile1url="images/2_o_1.jpg"/>
+    <altinput tile0url="images/2_o_800_0.jpg" screensize="1000" tile5url="images/2_o_800_5.jpg" tilesize="800" tile4url="images/2_o_800_4.jpg" tile3url="images/2_o_800_3.jpg" tilescale="1.011210762331839" tile2url="images/2_o_800_2.jpg" tile1url="images/2_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="187.5" fov="70" tilt="-5.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Музей обороны и блокады Ленинграда" datetime="2014" description="" copyright="blokadamus.ru" tags="" author="Антипов В.С. под руководством Абрамова И.В." source="school-134.ru" comment="Учебный проект. ГБОУ СОШ №134 им.Сердея Дудко" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot title="Пройти" target="212/1.5/91" url="{node2}" id="Poly01">
+        <vertex pan="16.6289" tilt="-5.9017"/>
+        <vertex pan="-5.68453" tilt="-7.57171"/>
+        <vertex pan="-13.7783" tilt="-38.8247"/>
+        <vertex pan="24.037" tilt="-38.9905"/>
+        <vertex pan="22.2912" tilt="-25.1584"/>
+      </polyhotspot>
+      <polyhotspot title="Пройти" target="265.5/-8.5/110" url="{node12}" id="Poly02">
+        <vertex pan="104.156" tilt="-2.26897"/>
+        <vertex pan="89.0424" tilt="-1.43241"/>
+        <vertex pan="80.8804" tilt="-29.0182"/>
+        <vertex pan="115.6" tilt="-29.2024"/>
+        <vertex pan="108.08" tilt="-18.0483"/>
+      </polyhotspot>
+      <polyhotspot title="Пройти" target="254.5/-10.5/88" url="{node4}" id="Poly03">
+        <vertex pan="-169.597" tilt="-1.18317"/>
+        <vertex pan="176.874" tilt="-1.65793"/>
+        <vertex pan="168.288" tilt="-23.2446"/>
+        <vertex pan="-163.895" tilt="-21.9221"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/3_o_0.jpg" tile5url="images/3_o_5.jpg" tilesize="892" tile4url="images/3_o_4.jpg" tile3url="images/3_o_3.jpg" tilescale="1.011210762331839" tile2url="images/3_o_2.jpg" tile1url="images/3_o_1.jpg"/>
+    <altinput tile0url="images/3_o_800_0.jpg" screensize="1000" tile5url="images/3_o_800_5.jpg" tilesize="800" tile4url="images/3_o_800_4.jpg" tile3url="images/3_o_800_3.jpg" tilescale="1.011210762331839" tile2url="images/3_o_800_2.jpg" tile1url="images/3_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="241" fov="70" tilt="-3"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Музей обороны и блокады Ленинграда" datetime="2014" description="" copyright="blokadamus.ru" tags="" author="Антипов В.С. под руководством Абрамова И.В." source="school-134.ru" comment="Учебный проект. ГБОУ СОШ №134 им.Сердея Дудко" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot title="Пройти" target="3.5/-10.5/89" url="{node3}" id="Poly01">
+        <vertex pan="74.60809999999999" tilt="-5.69499"/>
+        <vertex pan="53.6549" tilt="-5.70978"/>
+        <vertex pan="50.8339" tilt="-19.8534"/>
+        <vertex pan="76.7833" tilt="-24.0547"/>
+        <vertex pan="76.7833" tilt="-24.0547"/>
+      </polyhotspot>
+      <polyhotspot title="Пройти" target="44/-9.5/88" url="{node5}" id="Poly02">
+        <vertex pan="-106.831" tilt="-7.45233"/>
+        <vertex pan="-123.128" tilt="-9.42258"/>
+        <vertex pan="-128.226" tilt="-23.5815"/>
+        <vertex pan="-97.42610000000001" tilt="-27.1396"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/4_o_0.jpg" tile5url="images/4_o_5.jpg" tilesize="892" tile4url="images/4_o_4.jpg" tile3url="images/4_o_3.jpg" tilescale="1.011210762331839" tile2url="images/4_o_2.jpg" tile1url="images/4_o_1.jpg"/>
+    <altinput tile0url="images/4_o_800_0.jpg" screensize="1000" tile5url="images/4_o_800_5.jpg" tilesize="800" tile4url="images/4_o_800_4.jpg" tile3url="images/4_o_800_3.jpg" tilescale="1.011210762331839" tile2url="images/4_o_800_2.jpg" tile1url="images/4_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="30" fov="70" tilt="-5.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Музей обороны и блокады Ленинграда" datetime="2014" description="" copyright="blokadamus.ru" tags="" author="Антипов В.С. под руководством Абрамова И.В." source="school-134.ru" comment="Учебный проект. ГБОУ СОШ №134 им.Сердея Дудко" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot title="Пройти" target="193.5/-10.5/78" url="{node13}" id="Poly01">
+        <vertex pan="-22.1722" tilt="19.3174"/>
+        <vertex pan="-78.14530000000001" tilt="10.7247"/>
+        <vertex pan="-77.6026" tilt="-36.7442"/>
+        <vertex pan="-17.4982" tilt="-36.0454"/>
+      </polyhotspot>
+      <polyhotspot title="Пройти" target="62.5/-7.5/82" url="{node4}" id="Poly02">
+        <vertex pan="-130.63" tilt="1.71468"/>
+        <vertex pan="-144.983" tilt="1.13039"/>
+        <vertex pan="-155.657" tilt="-26.2132"/>
+        <vertex pan="-122.905" tilt="-32.9688"/>
+      </polyhotspot>
+      <polyhotspot title="Пройти" target="234/-8/97" url="{node6}" id="Poly03">
+        <vertex pan="16.4069" tilt="8.58114"/>
+        <vertex pan="19.9197" tilt="-26.6287"/>
+        <vertex pan="65.49979999999999" tilt="-25.1846"/>
+        <vertex pan="41.7405" tilt="-2.67464"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/5_o_0.jpg" tile5url="images/5_o_5.jpg" tilesize="892" tile4url="images/5_o_4.jpg" tile3url="images/5_o_3.jpg" tilescale="1.011210762331839" tile2url="images/5_o_2.jpg" tile1url="images/5_o_1.jpg"/>
+    <altinput tile0url="images/5_o_800_0.jpg" screensize="1000" tile5url="images/5_o_800_5.jpg" tilesize="800" tile4url="images/5_o_800_4.jpg" tile3url="images/5_o_800_3.jpg" tilescale="1.011210762331839" tile2url="images/5_o_800_2.jpg" tile1url="images/5_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="304" fov="70" tilt="-1"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Музей обороны и блокады Ленинграда" datetime="2014" description="" copyright="blokadamus.ru" tags="" author="Антипов В.С. под руководством Абрамова И.В." source="school-134.ru" comment="Учебный проект. ГБОУ СОШ №134 им.Сердея Дудко" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot title="Пройти" target="189/-15/101" url="{node5}" id="Poly01">
+        <vertex pan="66.67829999999999" tilt="9.108510000000001"/>
+        <vertex pan="30.6286" tilt="-0.907402"/>
+        <vertex pan="32.8939" tilt="-27.5364"/>
+        <vertex pan="64.7692" tilt="-28.7113"/>
+      </polyhotspot>
+      <polyhotspot title="Пройти" target="100/-7.5/92" url="{node7}" id="Poly02">
+        <vertex pan="-44.4984" tilt="1.30023"/>
+        <vertex pan="-85.96420000000001" tilt="4.57374"/>
+        <vertex pan="-73.3374" tilt="-20.2572"/>
+        <vertex pan="-41.3809" tilt="-16.4615"/>
+      </polyhotspot>
+      <polyhotspot title="Пройти" target="171/-3/94" url="{node9}" id="Poly03">
+        <vertex pan="176.803" tilt="8.008330000000001"/>
+        <vertex pan="175.834" tilt="-26.904"/>
+        <vertex pan="-131.989" tilt="-17.9247"/>
+        <vertex pan="-135.89" tilt="9.99962"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/6_o_0.jpg" tile5url="images/6_o_5.jpg" tilesize="892" tile4url="images/6_o_4.jpg" tile3url="images/6_o_3.jpg" tilescale="1.011210762331839" tile2url="images/6_o_2.jpg" tile1url="images/6_o_1.jpg"/>
+    <altinput tile0url="images/6_o_800_0.jpg" screensize="1000" tile5url="images/6_o_800_5.jpg" tilesize="800" tile4url="images/6_o_800_4.jpg" tile3url="images/6_o_800_3.jpg" tilescale="1.011210762331839" tile2url="images/6_o_800_2.jpg" tile1url="images/6_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="218.5" fov="70" tilt="-1.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Музей обороны и блокады Ленинграда" datetime="2014" description="" copyright="blokadamus.ru" tags="" author="Антипов В.С. под руководством Абрамова И.В." source="school-134.ru" comment="Учебный проект. ГБОУ СОШ №134 им.Сердея Дудко" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot title="Пройти" target="178.5/-1/85" url="{node8}" id="Poly01">
+        <vertex pan="-105.687" tilt="-2.80336"/>
+        <vertex pan="-131.564" tilt="-2.61499"/>
+        <vertex pan="-134.196" tilt="-21.0147"/>
+        <vertex pan="-97.76090000000001" tilt="-25.7812"/>
+      </polyhotspot>
+      <polyhotspot title="Пройти" target="67.5/1/81" url="{node6}" id="Poly02">
+        <vertex pan="-45.255" tilt="2.72942"/>
+        <vertex pan="-61.3693" tilt="3.19975"/>
+        <vertex pan="-64.4791" tilt="1.36081"/>
+        <vertex pan="-61.9898" tilt="-8.8286"/>
+        <vertex pan="-41.0454" tilt="-10.88"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/7_o_0.jpg" tile5url="images/7_o_5.jpg" tilesize="892" tile4url="images/7_o_4.jpg" tile3url="images/7_o_3.jpg" tilescale="1.011210762331839" tile2url="images/7_o_2.jpg" tile1url="images/7_o_1.jpg"/>
+    <altinput tile0url="images/7_o_800_0.jpg" screensize="1000" tile5url="images/7_o_800_5.jpg" tilesize="800" tile4url="images/7_o_800_4.jpg" tile3url="images/7_o_800_3.jpg" tilescale="1.011210762331839" tile2url="images/7_o_800_2.jpg" tile1url="images/7_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="29.5" fov="70" tilt="-6"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Музей обороны и блокады Ленинграда" datetime="" description="" copyright="blokadamus.ru" tags="" author="Антипов В.С. под руководством Абрамова И.В." source="school-134.ru" comment="Учебный проект. ГБОУ СОШ №134 им.Сердея Дудко" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot title="Пройти" target="57.5/2/90" url="{node7}" id="Poly01">
+        <vertex pan="24.6985" tilt="-11.8289"/>
+        <vertex pan="-16.0297" tilt="3.31067"/>
+        <vertex pan="-26.9129" tilt="-27.4504"/>
+        <vertex pan="27.3253" tilt="-27.5462"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/8_o_0.jpg" tile5url="images/8_o_5.jpg" tilesize="892" tile4url="images/8_o_4.jpg" tile3url="images/8_o_3.jpg" tilescale="1.011210762331839" tile2url="images/8_o_2.jpg" tile1url="images/8_o_1.jpg"/>
+    <altinput tile0url="images/8_o_800_0.jpg" screensize="1000" tile5url="images/8_o_800_5.jpg" tilesize="800" tile4url="images/8_o_800_4.jpg" tile3url="images/8_o_800_3.jpg" tilescale="1.011210762331839" tile2url="images/8_o_800_2.jpg" tile1url="images/8_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="176.5" fov="70" tilt="-2.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Музей обороны и блокады Ленинграда" datetime="" description="" copyright="blokadamus.ru" tags="" author="Антипов В.С. под руководством Абрамова И.В." source="school-134.ru" comment="Учебный проект. ГБОУ СОШ №134 им.Сердея Дудко" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot title="Пройти" target="41/-3.5/85" url="{node6}" id="Poly01">
+        <vertex pan="38.1985" tilt="12.394"/>
+        <vertex pan="24.5536" tilt="11.1048"/>
+        <vertex pan="20.6843" tilt="-29.2471"/>
+        <vertex pan="37.0059" tilt="-26.7966"/>
+      </polyhotspot>
+      <polyhotspot title="Пройти" target="188.5/-11/93" url="{node10}" id="Poly02">
+        <vertex pan="-170.612" tilt="-9.408849999999999"/>
+        <vertex pan="174.899" tilt="-9.023809999999999"/>
+        <vertex pan="161.197" tilt="-28.7692"/>
+        <vertex pan="-160.449" tilt="-28.5817"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/9_o_0.jpg" tile5url="images/9_o_5.jpg" tilesize="892" tile4url="images/9_o_4.jpg" tile3url="images/9_o_3.jpg" tilescale="1.011210762331839" tile2url="images/9_o_2.jpg" tile1url="images/9_o_1.jpg"/>
+    <altinput tile0url="images/9_o_800_0.jpg" screensize="1000" tile5url="images/9_o_800_5.jpg" tilesize="800" tile4url="images/9_o_800_4.jpg" tile3url="images/9_o_800_3.jpg" tilescale="1.011210762331839" tile2url="images/9_o_800_2.jpg" tile1url="images/9_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="178.5" fov="70" tilt="-5.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Музей обороны и блокады Ленинграда" datetime="" description="" copyright="blokadamus.ru" tags="" author="Антипов В.С. под руководством Абрамова И.В." source="school-134.ru" comment="Учебный проект. ГБОУ СОШ №134 им.Сердея Дудко" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot title="Пройти" target="14/1.5/88" url="{node9}" id="Poly01">
+        <vertex pan="20.2376" tilt="1.69112"/>
+        <vertex pan="0.421667" tilt="5.40082"/>
+        <vertex pan="-5.51344" tilt="-30.2048"/>
+        <vertex pan="28.6444" tilt="-25.3325"/>
+      </polyhotspot>
+      <polyhotspot title="Пройти" target="199.5/-6.5/87" url="{node11}" id="Poly02">
+        <vertex pan="-158.104" tilt="-1.08823"/>
+        <vertex pan="175.985" tilt="-0.306266"/>
+        <vertex pan="172.612" tilt="-10.2967"/>
+        <vertex pan="161.049" tilt="-25.9708"/>
+        <vertex pan="-153.943" tilt="-30.232"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/10_o_0.jpg" tile5url="images/10_o_5.jpg" tilesize="892" tile4url="images/10_o_4.jpg" tile3url="images/10_o_3.jpg" tilescale="1.011210762331839" tile2url="images/10_o_2.jpg" tile1url="images/10_o_1.jpg"/>
+    <altinput tile0url="images/10_o_800_0.jpg" screensize="1000" tile5url="images/10_o_800_5.jpg" tilesize="800" tile4url="images/10_o_800_4.jpg" tile3url="images/10_o_800_3.jpg" tilescale="1.011210762331839" tile2url="images/10_o_800_2.jpg" tile1url="images/10_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="187" fov="70" tilt="-5.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Музей обороны и блокады Ленинграда" datetime="" description="" copyright="blokadamus.ru" tags="" author="Антипов В.С. под руководством Абрамова И.В." source="school-134.ru" comment="Учебный проект. ГБОУ СОШ №134 им.Сердея Дудко" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot title="Пройти" target="11/-3.5/85" url="{node10}" id="Poly01">
+        <vertex pan="22.6246" tilt="2.7006"/>
+        <vertex pan="24.2674" tilt="-24.9304"/>
+        <vertex pan="-5.89997" tilt="-31.5234"/>
+        <vertex pan="0.845783" tilt="12.1122"/>
+        <vertex pan="10.6127" tilt="10.6824"/>
+      </polyhotspot>
+      <polyhotspot title="Пройти" target="182.5/-1.5/100" url="{node12}" id="Poly02">
+        <vertex pan="-154.549" tilt="5.78448"/>
+        <vertex pan="-174.604" tilt="3.95934"/>
+        <vertex pan="-179.128" tilt="-25.5135"/>
+        <vertex pan="-148.184" tilt="-19.6483"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/11_o_0.jpg" tile5url="images/11_o_5.jpg" tilesize="892" tile4url="images/11_o_4.jpg" tile3url="images/11_o_3.jpg" tilescale="1.011210762331839" tile2url="images/11_o_2.jpg" tile1url="images/11_o_1.jpg"/>
+    <altinput tile0url="images/11_o_800_0.jpg" screensize="1000" tile5url="images/11_o_800_5.jpg" tilesize="800" tile4url="images/11_o_800_4.jpg" tile3url="images/11_o_800_3.jpg" tilescale="1.011210762331839" tile2url="images/11_o_800_2.jpg" tile1url="images/11_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="94.5" fov="70" tilt="-5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Музей обороны и блокады Ленинграда" datetime="" description="" copyright="blokadamus.ru" tags="" author="Антипов В.С. под руководством Абрамова И.В." source="school-134.ru" comment="Учебный проект. ГБОУ СОШ №134 им.Сердея Дудко" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot title="Пройти" target="26/-2.5/87" url="{node11}" id="Poly01">
+        <vertex pan="5.12641" tilt="5.23457"/>
+        <vertex pan="-12.4862" tilt="8.01511"/>
+        <vertex pan="-12.4862" tilt="-27.5743"/>
+        <vertex pan="15.6684" tilt="-25.3348"/>
+      </polyhotspot>
+      <polyhotspot title="Пройти" target="288.5/-17/92" url="{node3}" id="Poly02">
+        <vertex pan="90.9804" tilt="3.81533"/>
+        <vertex pan="75.2174" tilt="3.85538"/>
+        <vertex pan="74.818" tilt="-5.7771"/>
+        <vertex pan="70.5953" tilt="-28.639"/>
+        <vertex pan="101.531" tilt="-22.4936"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/12_o_0.jpg" tile5url="images/12_o_5.jpg" tilesize="892" tile4url="images/12_o_4.jpg" tile3url="images/12_o_3.jpg" tilescale="1.011210762331839" tile2url="images/12_o_2.jpg" tile1url="images/12_o_1.jpg"/>
+    <altinput tile0url="images/12_o_800_0.jpg" screensize="1000" tile5url="images/12_o_800_5.jpg" tilesize="800" tile4url="images/12_o_800_4.jpg" tile3url="images/12_o_800_3.jpg" tilescale="1.011210762331839" tile2url="images/12_o_800_2.jpg" tile1url="images/12_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="152" fov="70" tilt="-2"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Музей обороны и блокады Ленинграда" datetime="2014" description="" copyright="blokadamus.ru" tags="" author="Антипов В.С. под руководством Абрамова И.В." source="school-134.ru" comment="Учебный проект. ГБОУ СОШ №134 им.Сердея Дудко" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot title="Пройти" target="129.5/-4.5/109" url="{node5}" id="Poly01">
+        <vertex pan="-24.4808" tilt="23.7822"/>
+        <vertex pan="39.5526" tilt="22.3273"/>
+        <vertex pan="39.4923" tilt="-38.9491"/>
+        <vertex pan="-29.6072" tilt="-40.946"/>
+        <vertex pan="-23.5692" tilt="15.0518"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/13_o_0.jpg" tile5url="images/13_o_5.jpg" tilesize="892" tile4url="images/13_o_4.jpg" tile3url="images/13_o_3.jpg" tilescale="1.011210762331839" tile2url="images/13_o_2.jpg" tile1url="images/13_o_1.jpg"/>
+    <altinput tile0url="images/13_o_800_0.jpg" screensize="1000" tile5url="images/13_o_800_5.jpg" tilesize="800" tile4url="images/13_o_800_4.jpg" tile3url="images/13_o_800_3.jpg" tilescale="1.011210762331839" tile2url="images/13_o_800_2.jpg" tile1url="images/13_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
